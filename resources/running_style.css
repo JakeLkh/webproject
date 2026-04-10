@@ -1,0 +1,51 @@
+/*
+  blue: #448AA6
+  orange: #F29727
+  light blue: #BADDE3
+  dark blue: #48757C
+  brown: #837064
+*/
+
+body {
+  background-color: #FFF5DE;
+  padding: 0 24px 36px 24px;
+}
+
+a {
+  color: #837064;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #2662DC;
+}
+
+h1, h2 {
+  color: #2662DC;
+}
+
+h1 {
+  text-align: center;
+}
+
+p.picture {
+  text-align: center;
+}
+
+p, li, table {
+  font-size: 1.2em;
+}
+
+th, td {
+  /*border-color: #448AA6;
+  border-style: solid;
+  border-width: 3px; */
+  border: #448AA6 solid 3px;
+  padding: 8px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
